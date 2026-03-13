@@ -15,3 +15,4 @@
 ---
 
 Exploring physics simulation, neural control systems, audio synthesis, and interactive mathematics — all in TypeScript.
+
